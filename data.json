@@ -1,22 +1,25 @@
 {
     "Productos": [
         {
-            "nombre_Producto": "2",
-            "descripcion_Producto": "2",
+            "id_Producto": "2112793019376",
+            "nombre_Producto": "pescado",
+            "descripcion_Producto": "pe",
             "precio_Producto": 2,
+            "cantidad_Producto": 3
+        },
+        {
+            "id_Producto": "2330867008944",
+            "nombre_Producto": "rata",
+            "descripcion_Producto": "una rata bien tlacuache",
+            "precio_Producto": 5,
             "cantidad_Producto": 2
         },
         {
-            "nombre_Producto": "pes",
-            "descripcion_Producto": "er",
-            "precio_Producto": 2,
-            "cantidad_Producto": 3
-        },
-        {
-            "nombre_Producto": "pes",
-            "descripcion_Producto": "er",
-            "precio_Producto": 2,
-            "cantidad_Producto": 3
+            "id_Producto": "1",
+            "nombre_Producto": "rata12",
+            "descripcion_Producto": "una rata bien tlacuache",
+            "precio_Producto": 5,
+            "cantidad_Producto": 2
         }
     ]
 }
