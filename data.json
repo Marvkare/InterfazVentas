@@ -1,0 +1,22 @@
+{
+    "Productos": [
+        {
+            "nombre_Producto": "2",
+            "descripcion_Producto": "2",
+            "precio_Producto": 2,
+            "cantidad_Producto": 2
+        },
+        {
+            "nombre_Producto": "pes",
+            "descripcion_Producto": "er",
+            "precio_Producto": 2,
+            "cantidad_Producto": 3
+        },
+        {
+            "nombre_Producto": "pes",
+            "descripcion_Producto": "er",
+            "precio_Producto": 2,
+            "cantidad_Producto": 3
+        }
+    ]
+}
